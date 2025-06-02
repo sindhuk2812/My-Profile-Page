@@ -15,4 +15,4 @@ Hi! I'm Sindhu Kanaparthi. This is my personal profile page created using **HTML
 - ✅ Profile photo and introduction
 - ✅ A "Say Hello" button that shows an alert
 - ✅ A contact form with Name, Email, and Message
-- ✅ Clean and centered design using CSS Flexbox
+- ✅ Clean and centered design using CSS
